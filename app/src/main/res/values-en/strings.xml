@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mago</string>
+    <string name="titleHome">Home</string>
+    <string name="titleLost">I Lost</string>
+    <string name="titleFound">I Found</string>
+    <string name="titleConfiguration">Configurations</string>
+    <string name="titleSerch">Serch</string>
+</resources>

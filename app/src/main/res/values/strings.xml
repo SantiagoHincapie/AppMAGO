@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mago</string>
+    <string name="titleHome">Home</string>
+    <string name="titleLost">Perdí</string>
+    <string name="titleFound">Encontré</string>
+    <string name="titleConfiguration">Configuraciones</string>
+    <string name="titleSerch">Busqueda</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
